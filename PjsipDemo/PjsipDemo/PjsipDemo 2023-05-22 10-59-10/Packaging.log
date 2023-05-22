@@ -1,0 +1,187 @@
+2023-05-22 05:29:05 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x7fa5a97ddab0; archive(resolved)="<IDEArchive: 0x7fa5a9562000>", distributionTask(resolved)="2", distributionDestination(resolved)="1", distributionMethod(resolved)="<IDEDistributionMethodDevelopmentSigned: 0x7fa5a43e8050>", team(resolved)="<IDEProvisioningDisambiguatableBasicTeam: 0x7fa5a4383010; teamID='H4G2PA6K4T', teamName='CMEXPERTISE INFOTECH PRIVATE LIMITED', teamType='Company', username='ios.cmexpertise@gmail.com', isFreeProvisioningTeam='0'>">
+	Chain (14, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x7fa5a97ddab0; archive = "<IDEArchive: 0x7fa5a9562000>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x7fa5a43e8050>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7fa5a4383010; teamID='H4G2PA6K4T', teamName='CMEXPERTISE INFOTECH PRIVATE LIMITED', teamType='Company', username='ios.cmexpertise@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionProcessingPipelineContext: 0x7fa5a96a1f90; archive = "<IDEArchive: 0x7fa5a9562000>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x7fa5a43e8050>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7fa5a4383010; teamID='H4G2PA6K4T', teamName='CMEXPERTISE INFOTECH PRIVATE LIMITED', teamType='Company', username='ios.cmexpertise@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7fa5a8ad01b0; archive = "<IDEArchive: 0x7fa5a9562000>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x7fa5a43e8050>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7fa5a4383010; teamID='H4G2PA6K4T', teamName='CMEXPERTISE INFOTECH PRIVATE LIMITED', teamType='Company', username='ios.cmexpertise@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7fa58e0d4de0; archive = "<IDEArchive: 0x7fa5a9562000>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x7fa5a43e8050>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7fa5a4383010; teamID='H4G2PA6K4T', teamName='CMEXPERTISE INFOTECH PRIVATE LIMITED', teamType='Company', username='ios.cmexpertise@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7fa5a0bd2af0; archive = "<IDEArchive: 0x7fa5a9562000>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x7fa5a43e8050>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7fa5a4383010; teamID='H4G2PA6K4T', teamName='CMEXPERTISE INFOTECH PRIVATE LIMITED', teamType='Company', username='ios.cmexpertise@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7fa59d65dbe0; archive = "<IDEArchive: 0x7fa5a9562000>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x7fa5a43e8050>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7fa5a4383010; teamID='H4G2PA6K4T', teamName='CMEXPERTISE INFOTECH PRIVATE LIMITED', teamType='Company', username='ios.cmexpertise@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7fa5a9fa9c40; archive = "<IDEArchive: 0x7fa5a9562000>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x7fa5a43e8050>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7fa5a4383010; teamID='H4G2PA6K4T', teamName='CMEXPERTISE INFOTECH PRIVATE LIMITED', teamType='Company', username='ios.cmexpertise@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7fa5a7cdcaa0; archive = "<IDEArchive: 0x7fa5a9562000>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x7fa5a43e8050>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7fa5a4383010; teamID='H4G2PA6K4T', teamName='CMEXPERTISE INFOTECH PRIVATE LIMITED', teamType='Company', username='ios.cmexpertise@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7fa5a930f500; archive = "<IDEArchive: 0x7fa5a9562000>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x7fa5a43e8050>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7fa5a4383010; teamID='H4G2PA6K4T', teamName='CMEXPERTISE INFOTECH PRIVATE LIMITED', teamType='Company', username='ios.cmexpertise@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7fa5a8a43010; archive = "<IDEArchive: 0x7fa5a9562000>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x7fa5a43e8050>", team="(null)">
+	<IDEDistributionContext: 0x7fa5a9220380; archive = "<IDEArchive: 0x7fa5a9562000>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x7fa5a43e8050>", team="(null)">
+	<IDEDistributionContext: 0x7fa5a924f760; archive = "<IDEArchive: 0x7fa5a9562000>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x7fa5a43e8050>", team="(null)">
+	<IDEDistributionContext: 0x7fa5a863fef0; archive = "<IDEArchive: 0x7fa5a9562000>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x7fa5a43e8050>", team="(null)">
+	<IDEDistributionContext: 0x7fa5a74b6a90; archive = "<IDEArchive: 0x7fa5a9562000>", distributionMethod="(null)", team="(null)">
+</IDEDistributionProcessingPipelineContext: 0x7fa5a97ddab0>
+2023-05-22 05:29:05 +0000  Processing step: IDEDistributionCreateDestRootStep
+2023-05-22 05:29:05 +0000  Processing step: IDEDistributionCopyItemStep
+2023-05-22 05:29:05 +0000  Running /usr/bin/ditto '-V' '/Users/apple/Library/Developer/Xcode/Archives/2023-05-22/PjsipDemo 22-05-23, 10.58 AM.xcarchive/Products/Applications/PjsipDemo.app' '/var/folders/82/gtx_9gvd75b392gktj7fv6fc0000gn/T/XcodeDistPipeline.~~~ar4MXu/Root/Payload/PjsipDemo.app'
+2023-05-22 05:29:05 +0000  >>> Copying /Users/apple/Library/Developer/Xcode/Archives/2023-05-22/PjsipDemo 22-05-23, 10.58 AM.xcarchive/Products/Applications/PjsipDemo.app 
+2023-05-22 05:29:05 +0000  copying file ./_CodeSignature/CodeResources ... 
+2023-05-22 05:29:05 +0000  6487 bytes for ./_CodeSignature/CodeResources
+2023-05-22 05:29:05 +0000  copying file ./Base.lproj/Main.storyboardc/VideoVC.nib ... 
+2023-05-22 05:29:05 +0000  1005 bytes for ./Base.lproj/Main.storyboardc/VideoVC.nib
+copying file ./Base.lproj/Main.storyboardc/Xqs-wT-Sk7-view-2br-Wu-H7I.nib ... 
+2023-05-22 05:29:05 +0000  7384 bytes for ./Base.lproj/Main.storyboardc/Xqs-wT-Sk7-view-2br-Wu-H7I.nib
+2023-05-22 05:29:05 +0000  copying file ./Base.lproj/Main.storyboardc/activeCallVC.nib ... 
+2023-05-22 05:29:05 +0000  1024 bytes for ./Base.lproj/Main.storyboardc/activeCallVC.nib
+2023-05-22 05:29:05 +0000  copying file ./Base.lproj/Main.storyboardc/ISb-gs-h5p-view-ZOs-6P-djL.nib ... 
+2023-05-22 05:29:05 +0000  3641 bytes for ./Base.lproj/Main.storyboardc/ISb-gs-h5p-view-ZOs-6P-djL.nib
+copying file ./Base.lproj/Main.storyboardc/UINavigationController-cDo-ns-qww.nib ... 
+2023-05-22 05:29:05 +0000  2006 bytes for ./Base.lproj/Main.storyboardc/UINavigationController-cDo-ns-qww.nib
+2023-05-22 05:29:05 +0000  copying file ./Base.lproj/Main.storyboardc/viewController.nib ... 
+2023-05-22 05:29:05 +0000  1350 bytes for ./Base.lproj/Main.storyboardc/viewController.nib
+2023-05-22 05:29:05 +0000  copying file ./Base.lproj/Main.storyboardc/FzD-Sf-6FM-view-N8b-sp-uZn.nib ... 
+2023-05-22 05:29:05 +0000  2284 bytes for ./Base.lproj/Main.storyboardc/FzD-Sf-6FM-view-N8b-sp-uZn.nib
+2023-05-22 05:29:05 +0000  copying file ./Base.lproj/Main.storyboardc/YYt-ku-Rmf-view-MZ9-x5-DFS.nib ... 
+2023-05-22 05:29:05 +0000  4030 bytes for ./Base.lproj/Main.storyboardc/YYt-ku-Rmf-view-MZ9-x5-DFS.nib
+2023-05-22 05:29:05 +0000  copying file ./Base.lproj/Main.storyboardc/outgoingCallVC.nib ... 
+2023-05-22 05:29:05 +0000  1308 bytes for ./Base.lproj/Main.storyboardc/outgoingCallVC.nib
+2023-05-22 05:29:05 +0000  copying file ./Base.lproj/Main.storyboardc/Md6-it-8Fl-view-8rh-2o-0I3.nib ... 
+2023-05-22 05:29:05 +0000  3882 bytes for ./Base.lproj/Main.storyboardc/Md6-it-8Fl-view-8rh-2o-0I3.nib
+2023-05-22 05:29:05 +0000  copying file ./Base.lproj/Main.storyboardc/Info.plist ... 
+2023-05-22 05:29:05 +0000  447 bytes for ./Base.lproj/Main.storyboardc/Info.plist
+2023-05-22 05:29:05 +0000  copying file ./Base.lproj/Main.storyboardc/incomingCallVC.nib ... 
+2023-05-22 05:29:05 +0000  1308 bytes for ./Base.lproj/Main.storyboardc/incomingCallVC.nib
+2023-05-22 05:29:05 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2023-05-22 05:29:05 +0000  1197 bytes for ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+2023-05-22 05:29:05 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2023-05-22 05:29:05 +0000  896 bytes for ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+2023-05-22 05:29:05 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+2023-05-22 05:29:05 +0000  258 bytes for ./Base.lproj/LaunchScreen.storyboardc/Info.plist
+2023-05-22 05:29:05 +0000  copying file ./PjsipDemo ... 
+2023-05-22 05:29:05 +0000  1897808 bytes for ./PjsipDemo
+2023-05-22 05:29:05 +0000  /usr/bin/ditto exited with 0
+2023-05-22 05:29:05 +0000  copying file ./embedded.mobileprovision ... 
+22152 bytes for ./embedded.mobileprovision
+copying file ./Info.plist ... 
+1700 bytes for ./Info.plist
+copying file ./PkgInfo ... 
+8 bytes for ./PkgInfo
+2023-05-22 05:29:05 +0000  Processing step: IDEDistributionEmbedProfileStep
+2023-05-22 05:29:05 +0000  Processing step: IDEDistributionInfoPlistStep
+2023-05-22 05:29:05 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2023-05-22 05:29:05 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2023-05-22 05:29:05 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2023-05-22 05:29:05 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2023-05-22 05:29:05 +0000  Skipping step: IDEDistributionCompileBitcodeStep because it said so
+2023-05-22 05:29:05 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2023-05-22 05:29:05 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2023-05-22 05:29:05 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2023-05-22 05:29:05 +0000  Processing step: IDEDistributionSymbolsStep
+2023-05-22 05:29:05 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2023-05-22 05:29:05 +0000  Processing step: IDEDistributionAppThinningStep
+2023-05-22 05:29:05 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2023-05-22 05:29:05 +0000  Processing step: IDEDistributionArchThinningStep
+2023-05-22 05:29:05 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/82/gtx_9gvd75b392gktj7fv6fc0000gn/T/XcodeDistPipeline.~~~ar4MXu/Root/Payload/PjsipDemo.app/PjsipDemo' '-verify_arch' 'arm64e'
+2023-05-22 05:29:05 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2023-05-22 05:29:05 +0000  Skipping architecture thinning for item "PjsipDemo" because arch "arm64e" wasn't found
+2023-05-22 05:29:05 +0000  Processing step: IDEDistributionODRStep
+2023-05-22 05:29:05 +0000  Processing step: IDEDistributionStripXattrsStep
+2023-05-22 05:29:05 +0000  Running /usr/bin/xattr '-crs' '/var/folders/82/gtx_9gvd75b392gktj7fv6fc0000gn/T/XcodeDistPipeline.~~~ar4MXu/Root/Payload/PjsipDemo.app'
+2023-05-22 05:29:05 +0000  /usr/bin/xattr exited with 0
+2023-05-22 05:29:05 +0000  Processing step: IDEDistributionCodesignStep
+2023-05-22 05:29:05 +0000  Entitlements for <IDEDistributionItem: 0x7fa5a3063220; bundleID='com.cme.webrtc.PjsipDemo', path='<DVTFilePath:0x7fa5a8948210:'/Users/apple/Library/Developer/Xcode/Archives/2023-05-22/PjsipDemo 22-05-23, 10.58 AM.xcarchive/Products/Applications/PjsipDemo.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa5a9f3d1c0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa5a1e5d170; name='Apple Development: ios cmexpertise (TSQRN8K8YA)', hash='890EC7BDB50C05D6B6DD511C4129900F14E8F158', serialNumber='66428FC1DA8AFD6807DCB14879820375', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-04-13 10:18:29 +0000''>', entitlements='{
+    "application-identifier" = "H4G2PA6K4T.com.cme.webrtc.PjsipDemo";
+    "com.apple.developer.team-identifier" = H4G2PA6K4T;
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "H4G2PA6K4T.com.cme.webrtc.PjsipDemo"
+    );
+}', teamID='H4G2PA6K4T', identifier='com.cme.webrtc.PjsipDemo', executablePath='<DVTFilePath:0x7fa5a35e24d0:'/Users/apple/Library/Developer/Xcode/Archives/2023-05-22/PjsipDemo 22-05-23, 10.58 AM.xcarchive/Products/Applications/PjsipDemo.app/PjsipDemo'>', hardenedRuntime='0'>'>: {
+    "application-identifier" = "H4G2PA6K4T.com.cme.webrtc.PjsipDemo";
+    "com.apple.developer.team-identifier" = H4G2PA6K4T;
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "H4G2PA6K4T.com.cme.webrtc.PjsipDemo"
+    );
+}
+2023-05-22 05:29:05 +0000  Entitlements for <IDEDistributionItem: 0x7fa5a3063220; bundleID='com.cme.webrtc.PjsipDemo', path='<DVTFilePath:0x7fa5a8948210:'/Users/apple/Library/Developer/Xcode/Archives/2023-05-22/PjsipDemo 22-05-23, 10.58 AM.xcarchive/Products/Applications/PjsipDemo.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa5a9f3d1c0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa5a89d0490; name='Apple Development: ios cmexpertise (TSQRN8K8YA)', hash='890EC7BDB50C05D6B6DD511C4129900F14E8F158', serialNumber='66428FC1DA8AFD6807DCB14879820375', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-04-13 10:18:29 +0000''>', entitlements='{
+    "application-identifier" = "H4G2PA6K4T.com.cme.webrtc.PjsipDemo";
+    "com.apple.developer.team-identifier" = H4G2PA6K4T;
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "H4G2PA6K4T.com.cme.webrtc.PjsipDemo"
+    );
+}', teamID='H4G2PA6K4T', identifier='com.cme.webrtc.PjsipDemo', executablePath='<DVTFilePath:0x7fa5a35e24d0:'/Users/apple/Library/Developer/Xcode/Archives/2023-05-22/PjsipDemo 22-05-23, 10.58 AM.xcarchive/Products/Applications/PjsipDemo.app/PjsipDemo'>', hardenedRuntime='0'>'> are: {
+    "application-identifier" = "H4G2PA6K4T.com.cme.webrtc.PjsipDemo";
+    "com.apple.developer.team-identifier" = H4G2PA6K4T;
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "H4G2PA6K4T.com.cme.webrtc.PjsipDemo"
+    );
+}
+2023-05-22 05:29:05 +0000  Writing entitlements for <IDEDistributionItem: 0x7fa5a3063220; bundleID='com.cme.webrtc.PjsipDemo', path='<DVTFilePath:0x7fa5a8948210:'/Users/apple/Library/Developer/Xcode/Archives/2023-05-22/PjsipDemo 22-05-23, 10.58 AM.xcarchive/Products/Applications/PjsipDemo.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fa5a9f3d1c0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fa5a7fed710; name='Apple Development: ios cmexpertise (TSQRN8K8YA)', hash='890EC7BDB50C05D6B6DD511C4129900F14E8F158', serialNumber='66428FC1DA8AFD6807DCB14879820375', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-04-13 10:18:29 +0000''>', entitlements='{
+    "application-identifier" = "H4G2PA6K4T.com.cme.webrtc.PjsipDemo";
+    "com.apple.developer.team-identifier" = H4G2PA6K4T;
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "H4G2PA6K4T.com.cme.webrtc.PjsipDemo"
+    );
+}', teamID='H4G2PA6K4T', identifier='com.cme.webrtc.PjsipDemo', executablePath='<DVTFilePath:0x7fa5a35e24d0:'/Users/apple/Library/Developer/Xcode/Archives/2023-05-22/PjsipDemo 22-05-23, 10.58 AM.xcarchive/Products/Applications/PjsipDemo.app/PjsipDemo'>', hardenedRuntime='0'>'> to: /var/folders/82/gtx_9gvd75b392gktj7fv6fc0000gn/T/XcodeDistPipeline.~~~ar4MXu/entitlements~~~jqwHKT
+2023-05-22 05:29:05 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '737B9EDB2FEEA3BB5DADCB7C59254D5D911A391E' '--entitlements' '/var/folders/82/gtx_9gvd75b392gktj7fv6fc0000gn/T/XcodeDistPipeline.~~~ar4MXu/entitlements~~~jqwHKT' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/82/gtx_9gvd75b392gktj7fv6fc0000gn/T/XcodeDistPipeline.~~~ar4MXu/Root/Payload/PjsipDemo.app'
+2023-05-22 05:29:05 +0000  /var/folders/82/gtx_9gvd75b392gktj7fv6fc0000gn/T/XcodeDistPipeline.~~~ar4MXu/Root/Payload/PjsipDemo.app: replacing existing signature
+2023-05-22 05:29:06 +0000  /var/folders/82/gtx_9gvd75b392gktj7fv6fc0000gn/T/XcodeDistPipeline.~~~ar4MXu/Root/Payload/PjsipDemo.app: signed app bundle with Mach-O thin (arm64) [com.cme.webrtc.PjsipDemo]
+2023-05-22 05:29:06 +0000  /usr/bin/codesign exited with 0
+2023-05-22 05:29:06 +0000  Processing step: IDEDistributionZipODRItemStep
+2023-05-22 05:29:06 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2023-05-22 05:29:06 +0000  Processing step: IDEDistributionCreateIPAStep
+2023-05-22 05:29:06 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/82/gtx_9gvd75b392gktj7fv6fc0000gn/T/XcodeDistPipeline.~~~ar4MXu/Root' '/var/folders/82/gtx_9gvd75b392gktj7fv6fc0000gn/T/XcodeDistPipeline.~~~ar4MXu/Packages/PjsipDemo.ipa'
+2023-05-22 05:29:06 +0000  >>> Copying /var/folders/82/gtx_9gvd75b392gktj7fv6fc0000gn/T/XcodeDistPipeline.~~~ar4MXu/Root 
+2023-05-22 05:29:06 +0000  copying file ./Payload/PjsipDemo.app/_CodeSignature/CodeResources ... 
+2023-05-22 05:29:06 +0000  6487 bytes for ./Payload/PjsipDemo.app/_CodeSignature/CodeResources
+2023-05-22 05:29:06 +0000  copying file ./Payload/PjsipDemo.app/Base.lproj/Main.storyboardc/VideoVC.nib ... 
+2023-05-22 05:29:06 +0000  1005 bytes for ./Payload/PjsipDemo.app/Base.lproj/Main.storyboardc/VideoVC.nib
+copying file ./Payload/PjsipDemo.app/Base.lproj/Main.storyboardc/Xqs-wT-Sk7-view-2br-Wu-H7I.nib ... 
+2023-05-22 05:29:06 +0000  7384 bytes for ./Payload/PjsipDemo.app/Base.lproj/Main.storyboardc/Xqs-wT-Sk7-view-2br-Wu-H7I.nib
+2023-05-22 05:29:06 +0000  copying file ./Payload/PjsipDemo.app/Base.lproj/Main.storyboardc/activeCallVC.nib ... 
+1024 bytes for ./Payload/PjsipDemo.app/Base.lproj/Main.storyboardc/activeCallVC.nib
+2023-05-22 05:29:06 +0000  copying file ./Payload/PjsipDemo.app/Base.lproj/Main.storyboardc/ISb-gs-h5p-view-ZOs-6P-djL.nib ... 
+2023-05-22 05:29:06 +0000  3641 bytes for ./Payload/PjsipDemo.app/Base.lproj/Main.storyboardc/ISb-gs-h5p-view-ZOs-6P-djL.nib
+copying file ./Payload/PjsipDemo.app/Base.lproj/Main.storyboardc/UINavigationController-cDo-ns-qww.nib ... 
+2023-05-22 05:29:06 +0000  2006 bytes for ./Payload/PjsipDemo.app/Base.lproj/Main.storyboardc/UINavigationController-cDo-ns-qww.nib
+copying file ./Payload/PjsipDemo.app/Base.lproj/Main.storyboardc/viewController.nib ... 
+2023-05-22 05:29:06 +0000  1350 bytes for ./Payload/PjsipDemo.app/Base.lproj/Main.storyboardc/viewController.nib
+2023-05-22 05:29:06 +0000  copying file ./Payload/PjsipDemo.app/Base.lproj/Main.storyboardc/FzD-Sf-6FM-view-N8b-sp-uZn.nib ... 
+2023-05-22 05:29:06 +0000  2284 bytes for ./Payload/PjsipDemo.app/Base.lproj/Main.storyboardc/FzD-Sf-6FM-view-N8b-sp-uZn.nib
+copying file ./Payload/PjsipDemo.app/Base.lproj/Main.storyboardc/YYt-ku-Rmf-view-MZ9-x5-DFS.nib ... 
+2023-05-22 05:29:06 +0000  4030 bytes for ./Payload/PjsipDemo.app/Base.lproj/Main.storyboardc/YYt-ku-Rmf-view-MZ9-x5-DFS.nib
+copying file ./Payload/PjsipDemo.app/Base.lproj/Main.storyboardc/outgoingCallVC.nib ... 
+2023-05-22 05:29:06 +0000  1308 bytes for ./Payload/PjsipDemo.app/Base.lproj/Main.storyboardc/outgoingCallVC.nib
+copying file ./Payload/PjsipDemo.app/Base.lproj/Main.storyboardc/Md6-it-8Fl-view-8rh-2o-0I3.nib ... 
+2023-05-22 05:29:06 +0000  3882 bytes for ./Payload/PjsipDemo.app/Base.lproj/Main.storyboardc/Md6-it-8Fl-view-8rh-2o-0I3.nib
+copying file ./Payload/PjsipDemo.app/Base.lproj/Main.storyboardc/Info.plist ... 
+2023-05-22 05:29:06 +0000  447 bytes for ./Payload/PjsipDemo.app/Base.lproj/Main.storyboardc/Info.plist
+copying file ./Payload/PjsipDemo.app/Base.lproj/Main.storyboardc/incomingCallVC.nib ... 
+2023-05-22 05:29:06 +0000  1308 bytes for ./Payload/PjsipDemo.app/Base.lproj/Main.storyboardc/incomingCallVC.nib
+copying file ./Payload/PjsipDemo.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2023-05-22 05:29:06 +0000  1197 bytes for ./Payload/PjsipDemo.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+copying file ./Payload/PjsipDemo.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2023-05-22 05:29:06 +0000  896 bytes for ./Payload/PjsipDemo.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+copying file ./Payload/PjsipDemo.app/Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+2023-05-22 05:29:06 +0000  258 bytes for ./Payload/PjsipDemo.app/Base.lproj/LaunchScreen.storyboardc/Info.plist
+copying file ./Payload/PjsipDemo.app/PjsipDemo ... 
+2023-05-22 05:29:06 +0000  1897808 bytes for ./Payload/PjsipDemo.app/PjsipDemo
+copying file ./Payload/PjsipDemo.app/embedded.mobileprovision ... 
+2023-05-22 05:29:06 +0000  22152 bytes for ./Payload/PjsipDemo.app/embedded.mobileprovision
+copying file ./Payload/PjsipDemo.app/Info.plist ... 
+1700 bytes for ./Payload/PjsipDemo.app/Info.plist
+copying file ./Payload/PjsipDemo.app/PkgInfo ... 
+8 bytes for ./Payload/PjsipDemo.app/PkgInfo
+2023-05-22 05:29:06 +0000  /usr/bin/ditto exited with 0
+2023-05-22 05:29:06 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2023-05-22 05:29:06 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2023-05-22 05:29:06 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
+2023-05-22 05:29:06 +0000  IDEDistributionItem init <DVTFilePath:0x7fa5a0ee8420:'/var/folders/82/gtx_9gvd75b392gktj7fv6fc0000gn/T/XcodeDistPipeline.~~~ar4MXu/Root/Payload/PjsipDemo.app'>
+2023-05-22 05:29:06 +0000  Processing step: IDEDistributionCreateManifestStep

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PjsipDemo.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>737B9EDB2FEEA3BB5DADCB7C59254D5D911A391E</string>
+				<key>dateExpires</key>
+				<string>06/03/24</string>
+				<key>type</key>
+				<string>iOS Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>H4G2PA6K4T.com.cme.webrtc.PjsipDemo</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>H4G2PA6K4T</string>
+				<key>get-task-allow</key>
+				<true/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>H4G2PA6K4T.com.cme.webrtc.PjsipDemo</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>PjsipDemo.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>bd06e7dd-4bd4-4c69-bccd-6e1c90fc9a69</string>
+				<key>dateExpires</key>
+				<string>13/04/24</string>
+				<key>name</key>
+				<string>CME WildCard</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>H4G2PA6K4T</string>
+				<key>name</key>
+				<string>CMEXPERTISE INFOTECH PRIVATE LIMITED</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
